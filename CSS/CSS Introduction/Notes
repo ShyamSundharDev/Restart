@@ -1,0 +1,13 @@
+CSS stands for "Cascading Style Sheet". It is used to style HTML Documents. CSS simplifies the process of making web pages presentable. It describes how web pages should look it prescribes colors, fonts, spacing
+
+CSS Introduction
+
+    CSS (Cascading Style Sheets) is a language designed to simplift the process of making web pages presentable
+
+    It allows you to apply styles to HTML documents by prescribing colors, fonts, spacing, and positioning.
+
+    CSS separates content from styling and enables reuse across pages.
+    HTML uses tags, and CSS uses rule sets.
+    CSS styles are applied to the HTML element using selectors.
+
+    
